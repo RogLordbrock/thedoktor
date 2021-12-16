@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+body {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.thedoktor {
+  font-family: "Fjalla One", sans-serif;
+  font-size: 30px;
+}
+.ulist {
+  padding-left: 500px;
+}
+.logo {
+  margin-left: 500px;
+}
+.opening {
+  font-family: "Fjalla One", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  color: rgb(111, 177, 45);
+  padding-top: 10px;
+}
+.whoarewe {
+  opacity: 89%;
+  font-family: "Fjalla One", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.sed-ut {
+  font-family: "Fjalla One", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 32px;
+  color: rgb(13, 221, 100);
+}
+.companies {
+  opacity: 70%;
+  font-family: "Fjalla One", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 40px;
+  word-spacing: 50px;
+}
+.mycontainer {
+  font-family: "Fjalla One", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: rgb(122, 211, 199);
+}
+.mycontainerbio {
+  opacity: 90%;
+}
